@@ -1,3 +1,3 @@
 # crud_angular
 Práctica para aplicación con framework Angular.
-Crud llamando a API empleados con PHP.
+Crud llamando a API empleados desarrollada en entorno servidor con PHP.
